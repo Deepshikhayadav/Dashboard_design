@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dashboard design</string>
+    <string name="hello_lamya">Hello Lamya</string>
+    <string name="profile">Profile</string>
+    <string name="edit">Edit</string>
+    <string name="play">Play</string>
+    <string name="setting">Setting</string>
+    <string name="library">Library</string>
+    <string name="log_out">Log Out</string>
+    <string name="lorem_ipsum_or_lipsum_as_it_is_sometimes_known_is_dummy_text_used_in_laying_out_print_graphic_or_web_designs">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</string>
+    <string name="trending">Trending</string>
+    <string name="menu">Menu</string>
+    <string name="like">like</string>
+</resources>

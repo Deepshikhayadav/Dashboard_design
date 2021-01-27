@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FC007E</color>
+    <color name="colorPrimaryDark">#C905BF</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="colorBottomCardStart">#ca00ee</color>
+    <color name="ColorBottomCardEnd">#D5A9E8</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorToolbarStart">#EFB2EF</color>
+    <color name="colorToolbarEnd">#F807EB</color>
+    <color name="textColor">#880582</color>
+</resources>
